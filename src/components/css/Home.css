@@ -1,0 +1,24 @@
+.search {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.imageCard{
+    height: min-content;
+    width: fit-content;
+}
+.imagediv{
+    width: 60%;
+    padding: 10px;
+}
+.imgdiv{
+      display: flex;
+    justify-content: center;
+}
